@@ -1,0 +1,33 @@
+name: medan_smart_tourism
+description: Medan Smart Tourism - E-Ticketing & E-Queue (demo UI)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  qr_flutter: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/Jakarta-OFL.txt
+    - assets/fonts/DMSerif-OFL.txt
+  fonts:
+    - family: Jakarta
+      fonts:
+        - asset: assets/fonts/PlusJakartaSans.ttf
+    - family: Editorial
+      fonts:
+        - asset: assets/fonts/DMSerifDisplay.ttf

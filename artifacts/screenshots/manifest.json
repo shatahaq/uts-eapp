@@ -1,0 +1,338 @@
+[
+  {
+    "file": "03-jelajahi-atas.png",
+    "title": "Jelajahi — halaman utama",
+    "group": "Wisatawan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "04-jelajahi-tengah.png",
+    "title": "Jelajahi — pilihan perjalanan dan promo",
+    "group": "Wisatawan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "05-jelajahi-bawah.png",
+    "title": "Jelajahi — daftar seluruh destinasi",
+    "group": "Wisatawan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "23-tiket-kosong.png",
+    "title": "Tiket saya — belum ada kunjungan",
+    "group": "Tiket dan antrean",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "24-riwayat-tiket.png",
+    "title": "Tiket saya — riwayat kunjungan",
+    "group": "Tiket dan antrean",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "27-antrean-kosong.png",
+    "title": "Antrean — belum mengambil nomor",
+    "group": "Tiket dan antrean",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "30-profil-atas.png",
+    "title": "Profil — perjalanan dan informasi",
+    "group": "Profil",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "31-profil-bawah.png",
+    "title": "Profil — informasi dan keluar sesi",
+    "group": "Profil",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "32-panduan-kunjungan.png",
+    "title": "Panduan kunjungan",
+    "group": "Profil",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "33-tentang-aplikasi.png",
+    "title": "Tentang Medan Smart Tourism",
+    "group": "Profil",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "34-kredit-foto-atas.png",
+    "title": "Kredit foto dan font — sumber foto",
+    "group": "Profil",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "35-kredit-foto-bawah.png",
+    "title": "Kredit foto dan font — lisensi",
+    "group": "Profil",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "01-login.png",
+    "title": "Masuk — halaman pembuka",
+    "group": "Akun",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "02-daftar.png",
+    "title": "Daftar akun demo",
+    "group": "Akun",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "06-destinasi-tersimpan.png",
+    "title": "Destinasi tersimpan",
+    "group": "Wisatawan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "07-detail-maimun-atas.png",
+    "title": "Istana Maimun — foto dan informasi utama",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "08-detail-maimun-tengah.png",
+    "title": "Istana Maimun — fasilitas dan harga tiket",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "09-detail-maimun-bawah.png",
+    "title": "Istana Maimun — panduan dan alamat",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "16-pemesanan-atas.png",
+    "title": "Pesan tiket — tanggal, sesi, dan pengunjung",
+    "group": "Pemesanan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "18-pilih-tanggal.png",
+    "title": "Kalender tanggal kunjungan",
+    "group": "Pemesanan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "17-pemesanan-bawah.png",
+    "title": "Pesan tiket — jumlah pengunjung dan rincian biaya",
+    "group": "Pemesanan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "19-kode-promo.png",
+    "title": "Pesan tiket — kolom kode promo",
+    "group": "Pemesanan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "20-pembayaran-atas.png",
+    "title": "Pembayaran — ringkasan dan metode pembayaran",
+    "group": "Pemesanan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "21-pembayaran-bawah.png",
+    "title": "Pembayaran — persetujuan dan konfirmasi",
+    "group": "Pemesanan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "22-pemesanan-berhasil.png",
+    "title": "Pesanan berhasil — e-tiket tersedia",
+    "group": "Pemesanan",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "25-e-tiket-qr.png",
+    "title": "E-tiket — kode QR dan informasi kunjungan",
+    "group": "Tiket dan antrean",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "26-konfirmasi-antrean.png",
+    "title": "Konfirmasi ambil nomor antrean",
+    "group": "Tiket dan antrean",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "28-antrean-menunggu.png",
+    "title": "Antrean — nomor dan estimasi tunggu",
+    "group": "Tiket dan antrean",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "29-antrean-dipanggil.png",
+    "title": "Antrean — giliran pengunjung dipanggil",
+    "group": "Tiket dan antrean",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "24a-tiket-aktif.png",
+    "title": "Tiket saya — kunjungan aktif",
+    "group": "Tiket dan antrean",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "10-detail-toba-atas.png",
+    "title": "Tour Danau Toba — foto dan informasi utama",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "11-detail-toba-bawah.png",
+    "title": "Tour Danau Toba — fasilitas, harga, dan panduan",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "12-detail-museum-atas.png",
+    "title": "Museum Sumatera Utara — foto dan informasi utama",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "13-detail-museum-bawah.png",
+    "title": "Museum Sumatera Utara — fasilitas, harga, dan panduan",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "14-detail-tjong-atas.png",
+    "title": "Tjong A Fie — foto dan informasi utama",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "15-detail-tjong-bawah.png",
+    "title": "Tjong A Fie — fasilitas, harga, dan panduan",
+    "group": "Detail wisata",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "36-petugas-pemindai.png",
+    "title": "Petugas — pemindai dan ringkasan loket",
+    "group": "Petugas",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "37-petugas-tiket-valid.png",
+    "title": "Petugas — tiket valid dan konfirmasi check-in",
+    "group": "Petugas",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "38-petugas-tiket-dipakai.png",
+    "title": "Petugas — tiket sudah digunakan",
+    "group": "Petugas",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "39-petugas-salah-jadwal.png",
+    "title": "Petugas — tanggal atau sesi tidak sesuai",
+    "group": "Petugas",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "40-petugas-kode-manual.png",
+    "title": "Petugas — masukkan kode booking manual",
+    "group": "Petugas",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "41-petugas-tiket-tidak-dikenal.png",
+    "title": "Petugas — kode booking tidak dikenal",
+    "group": "Petugas",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "42-admin-ringkasan.png",
+    "title": "Admin — ringkasan dan grafik kunjungan",
+    "group": "Admin",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "43-admin-distribusi.png",
+    "title": "Admin — pengunjung per destinasi",
+    "group": "Admin",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "44-admin-transaksi.png",
+    "title": "Admin — daftar transaksi terbaru",
+    "group": "Admin",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "45-admin-harian.png",
+    "title": "Admin — ringkasan periode harian",
+    "group": "Admin",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "46-admin-bulanan.png",
+    "title": "Admin — ringkasan periode bulanan",
+    "group": "Admin",
+    "width": 1080,
+    "height": 2400
+  },
+  {
+    "file": "02b-daftar-bawah.png",
+    "title": "Daftar akun — tombol dan informasi pratinjau",
+    "group": "Akun",
+    "width": 1080,
+    "height": 2400
+  }
+]
